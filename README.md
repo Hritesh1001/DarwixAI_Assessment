@@ -58,7 +58,7 @@ This repository contains two main features:
 
 ## FEATURE-1: Audio Diarization & Transcription
 
-1. **Ensure your audio file** (e.g., `test.wav`) is in the project root or update the `AUDIO_FILE` constant in `diarize_and_transcribe.py`.
+1. **Ensure your audio file** (e.g., `test.wav`) is in the project root or update the `AUDIO_FILE` constant in `speech_to_text.py`.
 
 2. **Run the script**
 
