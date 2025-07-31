@@ -1,4 +1,4 @@
-# DarwixAI_Assessment
+# DarwixAI_Assessment - Hritesh Bhardwaj
 
 This repository contains two main features:
 
@@ -63,7 +63,7 @@ This repository contains two main features:
 2. **Run the script**
 
    ```bash
-   python3 diarize_and_transcribe.py
+   python3 speech_to_text.py
    ```
 
 3. **Output** The script will print a JSON object with speaker-labeled segments and their transcriptions, e.g.:
